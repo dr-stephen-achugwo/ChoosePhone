@@ -1,0 +1,45 @@
+{
+    
+      "phone": {
+        "image_url": "https://media.wired.com/photos/5f7254df472ed04367fece40/master/w_2560%2Cc_limit/Gear-Apple_iPhone-11-Pro_Ultra-Wide_091019.jpg",
+        "name":"phone"
+      },
+      "laptop": {
+        "image_url": "https://m.media-amazon.com/images/I/61Qe0euJJZL._SX522_.jpg",
+        "name":"laptop"
+      },
+      "tablet": {
+        "image_url": "https://m.media-amazon.com/images/I/4129iYx95yL.jpg",
+        "name":"tablet"
+      },
+      "headphones": {
+        "image_url": "https://as1.ftcdn.net/v2/jpg/02/28/19/26/1000_F_228192611_akMH8f6lbZ2NedZluGMgZCco0aKRKtGk.jpg",
+        "name":"headphones"
+      },
+      "smartwatches": {
+        "image_url": "https://engineeringproductdesign.com/wp-content/uploads/apple_watches_microphone.png",
+        "name":"smart watches"
+      },
+      "television": {
+        "image_url": "https://4.imimg.com/data4/RW/GA/ANDROID-30476322/product-500x500.jpeg",
+        "name":"television"
+      },
+      "air_conditioner": {
+        "image_url": "https://cdn.pixabay.com/photo/2021/09/08/07/20/air-conditioner-6605973_960_720.jpg",
+        "name":"air conditioner"
+      },
+      "refrigerator": {
+        "image_url": "https://www.jagranimages.com/images/newimg/19052023/19_05_2023-best_fridge_brands_in_india_23417140.jpg",
+        "name":"refrigerator"
+      },
+      "washing_machine": {
+        "image_url": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1655370905/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/253429_jx9ma4.png",
+        "name":"washing machine"
+      },
+      "camera": {
+        "image_url": "https://media.istockphoto.com/id/185278433/photo/black-digital-slr-camera-in-a-white-background.jpg?s=1024x1024&w=is&k=20&c=UjIzN8-KrVm1urSdQdwmfsy2Iiln2Si6AZozCx5F6dM",
+        "name":"camera"
+      }
+  
+  }
+  
